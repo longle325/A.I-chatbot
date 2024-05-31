@@ -34,10 +34,10 @@ This project uses the PhoGPT model developed by VinAI Research.
 Special thanks to the open-source community for their contributions to the libraries and frameworks used in this project.
 
 ## License
-This project is licensed under the [Apache 2.0] (https://github.com/longle325/A.I-chatbot/blob/main/LICENSE) License
+This project is licensed under the [Apache 2.0](https://github.com/longle325/A.I-chatbot/blob/main/LICENSE) License
 
 ## Contact
-For any inquiries or feedback, please contact my [email]. (23520877@gm.uit.edu.vn)
+For any inquiries or feedback, please contact my [email](23520877@gm.uit.edu.vn).
   
    
     
