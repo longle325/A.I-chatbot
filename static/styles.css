@@ -1,0 +1,52 @@
+.chat-row {
+    display: flex;
+    margin: 5px;
+    width: 100%;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.chat-bubble {
+    font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    margin: 0px 7px;
+    max-width: 70%;
+}
+
+.ai-bubble {
+    background: rgb(220, 215, 215);
+    border-radius: 10px;
+}
+
+.human-bubble {
+    background: linear-gradient(135deg, rgb(0, 178, 255) 0%, rgb(0, 149, 255) 100%); 
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.chat-icon {
+    border-radius: 5px;
+}
+
+.st.container {
+    background-color: rgb(73, 179, 217); /* Blue background */
+    border: 1px solid rgb(73, 179, 217); /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px; /* Padding inside the container */
+    height: 320px; /* Set the height of the container */
+}
+
+.circular-btn {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    background-color: transparent;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/727/727399.png');
+    background-size: cover;
+    cursor: pointer;
+}
