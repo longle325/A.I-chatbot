@@ -1,5 +1,5 @@
 # A.I Chatbot with PhoGPT and Streamlit
-Welcome to A.I Chatbot! This project represents my endeavor to create a conversational assistant powered by artificial intelligence. Utilizing the PhoGPT model from VinAI Research, the chatbot generates human-like responses to user inputs. With a sleek user interface built using Streamlit, interacting with the chatbot is intuitive and engaging. Join me in exploring the seamless blend of AI technology and user experience!
+Welcome to my final Object-Oriented Programming assignment! This project represents my endeavor to create a conversational assistant powered by artificial intelligence. Utilizing the PhoGPT model from VinAI Research, the chatbot generates human-like responses to user inputs. With a sleek user interface built using Streamlit, interacting with the chatbot is intuitive and engaging. Join me in exploring the seamless blend of AI technology and user experience!
 
 ## Features
 
