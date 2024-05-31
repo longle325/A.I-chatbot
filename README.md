@@ -37,7 +37,7 @@ Special thanks to the open-source community for their contributions to the libra
 This project is licensed under the [Apache 2.0](https://github.com/longle325/A.I-chatbot/blob/main/LICENSE) License
 
 ## Contact
-For any inquiries or feedback, please contact my [email](23520877@gm.uit.edu.vn).
+For any inquiries or feedback, please contact my [email](mailto:23520877@gm.uit.edu.vn).
   
    
     
