@@ -32,9 +32,6 @@ Once the application is running, open your web browser and navigate to the provi
 ![image](https://github.com/longle325/A.I-chatbot/assets/140832783/74d358c5-3130-453d-abf8-bb3cce8d09f3)
 
 
-![image](https://github.com/longle325/A.I-chatbot/assets/140832783/72e41973-55de-44b8-83e6-f7acfa2b04b5)
-
-
 ## Acknowledgements
 This project uses the PhoGPT model developed by VinAI Research.
 Special thanks to the open-source community for their contributions to the libraries and frameworks used in this project.
