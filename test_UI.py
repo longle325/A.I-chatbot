@@ -92,7 +92,7 @@ class ChatApp:
 
     def render_credit(self):
         credit_card_placeholder = st.empty()
-        credit_card_placeholder.caption("Author: Lê Bảo Long - Hoàng Minh Thái")
+        credit_card_placeholder.caption("Author: Lê Bảo Long")
 
     def run(self):
         self.render_sidebar()
