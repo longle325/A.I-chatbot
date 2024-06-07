@@ -32,11 +32,12 @@
 }
 
 .st.container {
-    background-color: rgb(73, 179, 217); /* Blue background */
+    background-color: black; /* Blue background */
     border: 1px solid rgb(73, 179, 217); /* Light border */
     border-radius: 5px; /* Rounded corners */
     padding: 10px; /* Padding inside the container */
     height: 320px; /* Set the height of the container */
+
 }
 
 .circular-btn {
@@ -49,4 +50,137 @@
     background-image: url('https://cdn-icons-png.flaticon.com/128/727/727399.png');
     background-size: cover;
     cursor: pointer;
+}
+.st-emotion-cache-g7r313 {
+    border: 1px solid rgb(248, 255, 255);
+    border-radius: 0.5rem;
+    padding: calc(1em - 1px);
+    height: 520px;
+    overflow: auto;
+    background-image: url('https://i.pinimg.com/originals/f5/3e/5b/f53e5b9903291589f9385b97e0997490.jpg');
+}
+.st-emotion-cache-1yiq2ps {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: flex-start;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    position: absolute;
+    inset: 0px;
+    overflow: hidden;
+    background-image: url('https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1464618663641-bbdd760ae84a?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+}   
+.st-emotion-cache-12fmjuu {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 3.75rem;
+    background: rgb(255, 255, 255);
+    outline: none;
+    z-index: 999990;
+    display: block;
+}
+.st-emotion-cache-1dp5vir {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 0.125rem;
+    background-image: linear-gradient(90deg, rgb(255, 75, 75), rgb(255, 253, 128));
+    z-index: 999990;
+}
+.st-emotion-cache-r421ms {
+    border: 1px solid rgba(49, 51, 63, 0.2);
+    border-radius: 0.5rem;
+    padding: calc(1em - 1px);
+    background: white;
+}
+input#text_input_1 {
+    border: 2px groove;
+    border-radius: 25px;
+}
+.st-emotion-cache-r421ms {
+    /* border: 1px solid rgba(49, 51, 63, 0.2); */
+    /* border-radius: 0.5rem; */
+    /* padding: calc(1em - 1px); */
+    /* background: white; */
+}
+.st-emotion-cache-r421ms {
+    /* border: 1px solid rgba(49, 51, 63, 0.2); */
+    /* border-radius: 0.5rem; */
+    /* padding: calc(1em - 1px); */
+}
+.st-emotion-cache-7ym5gk {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
+    min-height: 38.4px;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(49, 51, 63, 0.2);
+}
+h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 700;
+    color: rgb(49, 51, 63);
+    padding: 1.25rem 0px 1rem;
+    margin: 0px;
+    line-height: 1.2;
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}  
+.st-emotion-cache-7ym5gk {
+    /* display: inline-flex; */
+    /* -webkit-box-align: center; */
+    /* align-items: center; */
+    /* -webkit-box-pack: center; */
+    /* justify-content: center; */
+    /* font-weight: 400; */
+    /* padding: 0.25rem 0.75rem; */
+    /* border-radius: 0.5rem; */
+    /* min-height: 38.4px; */
+    /* margin: 0px; */
+    /* line-height: 1.6; */
+    /* color: inherit; */
+    /* width: auto; */
+    /* user-select: none; */
+    /* background-color: rgb(255, 255, 255); */
+    /* border: 1px solid rgba(49, 51, 63, 0.2); */
+    background-image: url(https://img.icons8.com/?size=50&id=MouIgODIGDc6&format=png);
+}
+.st-emotion-cache-7ym5gk {
+    /* display: inline-flex; */
+    -webkit-box-align: center;
+    /* align-items: center; */
+    /* -webkit-box-pack: center; */
+    /* justify-content: center; */
+    /* font-weight: 400; */
+    /* padding: 0.25rem 0.75rem; */
+    /* border-radius: 0.5rem; */
+    min-height: 50px;
+    /* margin: 0px; */
+    /* line-height: 1.6; */
+    /* color: inherit; */
+    min-width: 50px;
+    /* user-select: none; */
+    /* background-color: rgb(255, 255, 255); */
+    /* border: 1px solid rgba(49, 51, 63, 0.2); */
+}
+.st-bq {
+    padding-top: 0.7rem;
+}
+.st-br {
+    padding-bottom: 0.7rem;
 }

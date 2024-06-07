@@ -26,7 +26,7 @@ def initialize_session_state():
 
 def on_click_callback():
     instruction = st.session_state.human_prompt
-    response = st.session_state.bot.generate_response(instruction)
+    response =  st.session_state.bot.generate_response(instruction)
     st.session_state.history.append(Message("human", instruction))
     st.session_state.history.append(Message("ai", response))
     st.session_state.human_prompt = ""

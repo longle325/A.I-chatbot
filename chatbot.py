@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer
 class ChatBot:
-    def __init__(self, model_path, device="cuda:4", torch_dtype=torch.bfloat16):
+    def __init__(self, model_path, device="cuda:1", torch_dtype=torch.bfloat16):
         self.model_path = model_path
         self.device = device
         self.config = AutoConfig.from_pretrained(model_path, trust_remote_code=True)
