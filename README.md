@@ -28,8 +28,10 @@ To get started with A.I Chatbot, follow these steps:
 ## Usage
 Once the application is running, open your web browser and navigate to the provided URL. You will be greeted by the A.I Chatbot interface, where you can start chatting with the AI.
 
-##Screenshots
+## Screenshots
 ![image](https://github.com/longle325/A.I-chatbot/assets/140832783/74d358c5-3130-453d-abf8-bb3cce8d09f3)
+
+
 ![image](https://github.com/longle325/A.I-chatbot/assets/140832783/72e41973-55de-44b8-83e6-f7acfa2b04b5)
 
 
